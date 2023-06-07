@@ -2,7 +2,7 @@ spring:
   application:
     name: Config-dev
 eureka:
-  intance:
+  instance:
     prefer-ip-address: true
   client:
     fetch-registry: true
